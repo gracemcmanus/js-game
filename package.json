@@ -1,0 +1,17 @@
+{
+  "name": "js-game",
+  "version": "0.1.0",
+  "description": "a simple javascript game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {
+    "httpd-node": ">=0.1.8"
+  },
+  "author": {
+    "name": "Grace McManus",
+    "email": "grace.mcmanus@verizon.net",
+    "url": ""
+  }
+}
